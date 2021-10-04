@@ -1,6 +1,6 @@
 # Welcome To Jubairs Coding Academy !!
 
-Our Live Site Link Is : assignment-9-jz.netlify.app
+Our Live Site Link Is : https://assignment-9-jz.netlify.app/
 
 ## Works
 1. Here we have 9 Online couses .
