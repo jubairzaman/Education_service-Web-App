@@ -1,0 +1,16 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.header{
+    border: 2px solid lightgray;
+    
+}
+.red{
+    color: red;
+}
+.cards{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 10px;
+    
+}
